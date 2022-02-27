@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Virtue and valour vindicated or, The late hugh and cry sent after Generall Massie, Pointz, &amp;c. retorted in the teeth of that scandalous libeller, who being ashamed to shew his name, hath discovered his nature. An enemy to honesty and all honour, and a living character of inhumanity. / By I.H.</title>
+            <author>I. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87011</idno>
+            <idno type="STC">Wing H52</idno>
+            <idno type="STC">Thomason E402_23</idno>
+            <idno type="STC">ESTC R201831</idno>
+            <idno type="EEBO-CITATION">99862322</idno>
+            <idno type="PROQUEST">99862322</idno>
+            <idno type="VID">114477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114477)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Virtue and valour vindicated or, The late hugh and cry sent after Generall Massie, Pointz, &amp;c. retorted in the teeth of that scandalous libeller, who being ashamed to shew his name, hath discovered his nature. An enemy to honesty and all honour, and a living character of inhumanity. / By I.H.</title>
+                  <author>I. H.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.W.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: A speedy hue and cry (Wing S4911).</note>
+                  <note>Annotation on Thomason copy: "Aug: 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term>Poyntz, Sydenham --  Early works to 1800.</term>
+               <term>Speedy hue and cry --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114477:1" rendition="simple:additions"/>
+            <p>VIRTUE AND VALOUR VINDICATED Or, the late Hugh and Cry ſent after Generall <hi>Masſie, Pointz, &amp;c.</hi> retorted in the teeth of that ſcandalous Libeller, who being a<g ref="char:EOLhyphen"/>ſhamed to ſhew his name, hath diſcovered his Nature.</p>
+            <p>An Enemy to honeſty and all honour, and a living Character of inhumanity.</p>
+            <p>By <hi>I. H.</hi>
+            </p>
+            <q>
+               <p>Non opus aliquod, aliud operatur niſi ut ſubvertat.</p>
+               <bibl>
+                  <hi>Chryſ.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>T. W.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114477:2"/>
+            <pb n="1" facs="tcp:114477:2"/>
+            <head>Virtue and valour <hi>Vindicated.</hi>
+            </head>
+            <p>GOodneſſe ſeldome meets with friends, and Greatnes never wanteth enemies, It is the ambition of a coward to overva<g ref="char:EOLhyphen"/>lue where he dares not, to undervalue where he cannot equalize. Many cares not to cruſh them<g ref="char:EOLhyphen"/>ſelves in the ruines of another, and being de<g ref="char:EOLhyphen"/>maunded by whoſe hand: 'tis anſwered, the en<g ref="char:EOLhyphen"/>vious man hath done it. But Aſſes will be bray<g ref="char:EOLhyphen"/>ing, and Doggs will be barking. O what an in<g ref="char:EOLhyphen"/>gratefull peece of time are we pitcht upon! that worthieſt actions ſhould have the worſt re<g ref="char:EOLhyphen"/>quizals; when thoſe, (to whoſe conquering ſwords the honour, and happines of a Kingdom becomes tributary) ſhall be reckt in pieces on the black tenter-hookes of Malice, and lye expo<g ref="char:EOLhyphen"/>ſed to all aſperſions <hi>diviſion</hi> can invent, or <hi>detra<g ref="char:EOLhyphen"/>ction</hi> accumulate, Thoſe <hi>Worthies</hi> (whoſe very
+<pb n="2" facs="tcp:114477:3"/>memori<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll is of force to make all future ages active unto honour) to ſave their names and re<g ref="char:EOLhyphen"/>putations blaſted by ſuch ayres gript by thoſe tallons, that breath nothing but diſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nour, drop nothing but infamie, and that without controule (as if it weare an offence to be good, whilſt ſin is tollerated) ſpeaks the loudeſt <hi>Law</hi> invalid, and that <hi>Power</hi> wherein they ſympathize of noe eff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct.</p>
+            <p>And therefore (unworthy Libeller) hadſt thou conteind thy ſelf at home, thou hadſt been lookt on as a creature vnworthy the vindication of the meaneſt pen; but to belch in publique, and thus to print thy ſelf in gall, expect to reapeas thou haſt ſowed, and like a Dog to lick up that vomit which thou haſt ſpued into the world.</p>
+            <p>The faire deportment military and civill of thoſe Noble Members hath been ſuch (as the major part of the Land can witneſſe) that ſhould I ſtreine a Character on the candor of their acti<g ref="char:EOLhyphen"/>ons, the integrity, and immutability of their af<g ref="char:EOLhyphen"/>fections I ſhould but <hi>Aureum annulum ferreis ſtel<g ref="char:EOLhyphen"/>lis, corrodere,</hi> ſet diamonds in Ieat, or enamile gold with ſtudds of iron; no, let their own works Praiſe them in the gates, and the great Hiſtorian <hi>Fame</hi> with his goulden penſill blazon their high demerits to poſterity, whilſt my ambition ſhall be, to ſit down and admire their Loyalty, practiſe their fidelity.</p>
+            <p>For my own part, I am not engaged to any of them, (except one) neither hath my acquaintance with them as yet extended, further then the eye:
+<pb n="3" facs="tcp:114477:3"/>but their full-blowne virtues are the Adamants to attract, their triumphant victories, together with their moſt indeleble patience, carried on with con<g ref="char:EOLhyphen"/>ſtancy, the poles to direct me to a juſt and neceſſary vindication.</p>
+            <p>And firſt, I diſire all whoſe hearts were never tainted with d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſloyalty) to view them not onely as men, but Gentlemen; not as ſcharrabs bred upon a dunghill, not as vapours or wandring Meteors toſt by every wind to ſeeke an inconſtant being; nor ſprung from thd loynes of ſome channell raker, or skipt our of a rat-trap or tinder-box, (as <hi>Rabſhecah</hi> railes it zealouſly in his 3 page) to be a Common-Councell man of the City; but deſcended from the bed of Honour famous in their generations, but as <hi>Ignorance</hi> is the only <hi>Antagoniſt</hi> to knowledge; So true Nobility hath no enemy but Ruſticity, and the beſt of birth are ever vilified by the worſt of baſe<g ref="char:EOLhyphen"/>nes; which proves the black-mouth'd Libeller, his greatneſſe equall with his goodneſſe, his birth an<g ref="char:EOLhyphen"/>ſwerable to his breeding, his nature ſervile, as his Name obſcure.</p>
+            <p>Secondly, Look upon them, many of them who have adventured (next unto heaven) what is dea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt to them, their lives and livelihoods, for the pub<g ref="char:EOLhyphen"/>lique good. Whet had become of Parliament, Ci<g ref="char:EOLhyphen"/>ty, Kingdom, nay Religion, Laws, Liberties, all, had not that renowned <hi>Impe</hi> of Warre taken <hi>Mars</hi> himſelfe by the beard and ſtopt that Imperiall Ar<g ref="char:EOLhyphen"/>my in their full carreere; whoſe vaſt bulke covered the deelining Weſt, and ſtroke terrour at a diſtance to the utmoſt corners of the Kingdome; Who was
+<pb n="4" facs="tcp:114477:4"/>he that preſerved that Mayden-City from raviſhing, which then lay panting to the death, through the fierce aſſaults of a bloudy foe? who was that ſublunary engine, that diſſipa<g ref="char:EOLhyphen"/>ted &amp; defeated all their fatall ſtratagems, was it not <hi>Maſſie</hi> who was he that in the compaſſe of one moneth with vn<g ref="char:EOLhyphen"/>equalled ſervice, overcame and diſpoſſeſt nine royall Garriſ<g ref="char:EOLhyphen"/>ons, as ſcorning to live within the breath of ſuch bad neigh<g ref="char:EOLhyphen"/>bours, was it not <hi>Maſſie</hi> with his handfull of Myrmidons?</p>
+            <p>Who was he that layd the famous <hi>Mynn</hi> his honour in the duſt, (who a little before threatned to ſet his inſulting foot upon the neck of that faire Damoſel <hi>Gloucſter</hi>) &amp; delive<g ref="char:EOLhyphen"/>red him dead, with above an hundred more, at her feet, as the tribute of his virgin love unto her, with hundreds more of (lately crying conqueſt) Captives? was it not <hi>Maſſy?</hi> Who was that thunder-bolt that thrilld aſtoniſhment in the <hi>Daniſh</hi> forreſt through the popiſh Army; that broke like a cloud upon them, flaſhing death in the faces of the Winterian power, confounding all their force, breaking their deſigns, and return'd laden with the ſpoyles of war, and with victo<g ref="char:EOLhyphen"/>rious trophes? Was it not <hi>Maſſy.</hi>
+            </p>
+            <p>Who was he that went out (from that Command) in ſuch a blaze to adde glory unto conqueſt, and crown his actions with a never-dying honour; when he tooke the ſtrong Garriſond <hi>Eveſham,</hi> in a ſtorme of fire and leaden haile, the loſſe whereof did make a King ſhed teares? was it not <hi>Maſſy?</hi>
+            </p>
+            <p>And having ſhewed himſelfe a faithfull Patriot to an in<g ref="char:EOLhyphen"/>gratefull people, leaving them ſecure under their own vines, being departed (as called forth to greater actions and commands) who was he that goared great <hi>Gorings Body</hi> thorow with his horſe, on that day, that fatall day at <hi>Langport,</hi> daſhing thereby in peeces all the Weſterne powers, that they durſt never after ſhew their faces in the field; one of the great blowes that cut off the necke of this unnaturall warre? was it not <hi>Maſſy?</hi>
+            </p>
+            <p>Who was he that led the Armies of <hi>England</hi>'s <hi>Iſrael</hi> through the bowels of the land, routed the <hi>Hoptonias</hi> ſtrength, and with his armed Troopes made his proud foes
+<pb facs="tcp:114477:4"/>to tremble with their thunder, hunting them in a warlike ſport as the fearfull Partridges in the Mountains? Was it not <hi>Waller?</hi> who even of his very enemies purchaſed that glorious title of <hi>William the Conquerour?</hi>
+            </p>
+            <p>What ſhall I ſay? they are men, therefore ſubject to Times ſtandard, <hi>Mutability;</hi> ever upon the wheele, uncertaine, they are valiant Commanders, therefore hated by degenerous cowards, they are eminent and honourable perſons, therefore ſubject unto cenſure and malice. But yet in ſpight of envy &amp; all her ſnaky worms, their names and fames ſhall our-vie a century of ages. <hi>Nec imber edax, nec Aquilo, nec innume<g ref="char:EOLhyphen"/>rabiles annorum ſeries diruere.</hi>
+            </p>
+            <p>And now after all their travelling in ſweat and bloud, to be contemned, and condemned, as traytors (as if it were treaſon to be faithfull) by an inferiour and unworthy vaſſal, whoſe contagious breath is able to do more hurt then a ge<g ref="char:EOLhyphen"/>nerall plague, and yet to paſſe without correction as if our lawes were dumb, and the executioners without life, ſhall not this brand the ſuporters of a State w<hi rend="sup">th</hi> obloquy, &amp; at laſt mold us into that ſlavery, that we ſhall account it happines to be miſerable? and when ſuch tongues without reſtraint are let looſe, who ſhall avoid the tyranny of their laſh? Kings and Commons ſhall ſhare alike; yet it is ſome honour for the ſervant to ſuffer with his Lord, and the deſciple is not above his maſter.</p>
+            <p>Thirdly, conſider their dignity as Members of Parliament made ſo by free Election, according to the fundamentall Lawes and cuſtomes of the Kingdome, never by order or vote erected (but rather approved of) the Houſe; never detected, for any by ſecret or contrarious workings, in the houſe; nor ever for any pretended enemies generall or ſpe<g ref="char:EOLhyphen"/>ciall by any proſecuted before the houſe: although this li<g ref="char:EOLhyphen"/>centious piece of barbariſme, out of an ambitious zeale to his owne ends, hath already preſumed to ſit in indg<g ref="char:EOLhyphen"/>ment upon them, himſelfe both witneſſe, Iury, judge, and excecutioner, the poyſon of this Scorpion being the potion they muſt drinke, as ſeditious ſtate-theeves, murderers and Traytors: and if his phyſick will not worke, then hath he ſentenced them to that eaſie death (as the <hi>Jſhmael</hi> ſcoffes
+<pb facs="tcp:114477:5"/>it) of hanging drawing and quartering (which no doubt) will returne upon himſelfe.</p>
+            <p>For being members of that high Court (which is the only viſible &amp; collective Body politique of the kingdom &amp; having motion and influence in all their publique agitati<g ref="char:EOLhyphen"/>ons from the ſaid body, acting nothing but by vote and vertue from the Houſe, as well in the late City procedings as other wiſe; whatſoever violence oppoſing or diſhonor falls one them, muſt needs reflect upon the whole Body naturall, one or ſome members ſuffering all the Members vnitely doe condole.</p>
+            <p>Therefore now, that either part or the whole collecting Body of a kingdome; ſome and conſequently all the Mem<g ref="char:EOLhyphen"/>bers of Parliament by an iniurious libeller a ſnarling Hell hound, ſhould be ſentenced, Iudged, condemned and exce<g ref="char:EOLhyphen"/>cuted, at one breath, at one blow comes under no leſſe ho<g ref="char:EOLhyphen"/>nor then that infernal peece engeny of the powder plot; the Cavaleers Raſhnes, the apprentices rudenes were, motes to this catarrhe, molehils to this mountaine; tyme cannot pro<g ref="char:EOLunhyphen"/>duce a paralel (ſince firſt this Nation became a Monarchy.) of ſuch an intrenchment upon, ſuch an impeachment of, ſuch a treaſon commited againſt a Parliament, to the utter aboli<g ref="char:EOLhyphen"/>tion of all authorit violation of true honour, and perpetuall infamy of the higheſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>VDICATORY in this Kingdom under heaven.</p>
+            <p>Neither doth this traytor alone impugne and deſtroy our State, but endeavour the ruine of religion alſo in caſting durt in the face, and making a ludibry of the daughter of Sion: and of her ſhepheards, whoſe very feet are beautiful; as if that Government eſtabliſh't by publique authority, were but made as a lack of Lent for iniquity to play withall, or raiſed as a Butt to ſhoot his tongue at. But as if England were <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> narrow to reſtrain his malice, to ſleight a morſell for this all devouring Dragon, Scotland alſo muſt ſhare his calumny, in his naſty Epithi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and be made the object of his malice, vvhich h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vv they vvill endure I leave to the future to diſcourſe. Appealing unto all, that are tender of the Kingdoms peace, to judge hereof, &amp; eſpecially to the high court of Parliament (vvhom it moſt concerns) for juſtice againſt this grand e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em to the common good; this <hi>Scandalum Magnatum,</hi> that he may re<g ref="char:EOLhyphen"/>ceive revvard according to the Lavvs &amp; his deſerts, that ſuch obſtructi<g ref="char:EOLhyphen"/>ons &amp; abominations being removed, all ſound of vvar may be ſtroke dumb &amp; mufled peace eſtabliſh't, unity continued, his Maj. perſon and juſt rights protected, the Parl: honoured, &amp; confirmed, the Church enlarged and God Almighty glorified.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
